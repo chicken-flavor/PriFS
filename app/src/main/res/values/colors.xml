@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#33aaff</color>
+    <color name="colorPrimaryDark">@color/white</color>
+    <color name="colorPrimaryOverlay">#cc0094ff</color>
+    <color name="colorAccent">#33aaff</color>
+    <!--<color name="colorPrimaryDark">#33aaff</color>-->
+
+    <color name="text_1st">@color/black</color>
+    <color name="text_2nd">#6A7077</color>
+    <color name="text_3rd">#9A9A9A</color>
+    <color name="text_4th">#dddddd</color>
+
+    <color name="red">#ffff0000</color>
+    <color name="blue">#33b5e5</color>
+    <color name="tint_blue">#8033b5e5</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+
+    <color name="black_semi_transparent">#B2000000</color>
+
+    <color name="transparent">#00ffffff</color>
+
+    <color name="black_boom">#90000000</color>
+
+    <color name="tint_gray">#fafafa</color>
+    <color name="gray">#eaeaea</color>
+    <color name="dark_gray">#dedede</color>
+    <color name="deep_dark_gray">#9c9c9c</color>
+    <color name="deep_dark_fantasy_gray">#4e4e4e</color>
+
+    <color name="toast">#88000000</color>
+
+    <color name="refresh_primary_color">#f3f6f9</color>
+    <color name="refresh_accent_color">#ff6A7077</color>
+
+    <color name="ic_color">#ff8a8a8a</color>
+
+    <color name="drawable_ripple">#ff8f9193</color>
+    <color name="drawable_solid">#aaa</color>
+    <color name="drawable_stroke">#d7d5d5</color>
+    <color name="drawable_stroke_on">@color/colorAccent</color>
+
+    <color name="remark">#7d96cc</color>
+
+    <color name="bg">@color/tint_gray</color>
+    <color name="bg_ripple">@color/tint_gray</color>
+    <color name="bg_mask">@color/deep_dark_fantasy_gray</color>
+    <color name="bg_title">@color/gray</color>
+
+</resources>

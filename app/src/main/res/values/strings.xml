@@ -1,0 +1,13 @@
+<resources>
+    <!--<string name="app_name">&#38;</string>-->
+    <string name="app_name">(￢_￢)</string>
+
+    <string name="transition">test</string>
+    <string name="demo">demo</string>
+
+    <string name="d">d</string>
+    <string name="e">e</string>
+    <string name="f">f</string>
+    <string name="g">g</string>
+    <string name="h">h</string>
+</resources>

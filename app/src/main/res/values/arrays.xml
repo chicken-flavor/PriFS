@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="drive">
+        <item>c</item>
+        <item>d</item>
+        <item>e</item>
+        <item>f</item>
+        <item>g</item>
+        <item>h</item>
+        <item>j</item>
+    </string-array>
+
+    <string-array name="protocol">
+        <item>http</item>
+        <item>https</item>
+    </string-array>
+
+    <string-array name="domain">
+        <item>ip</item>
+        <item>域名</item>
+    </string-array>
+</resources>

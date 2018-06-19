@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- 主页面toolbar高度 -->
+    <dimen name="toolbar_height">50dip</dimen>
+    <dimen name="toolbar_elevation">3dip</dimen>
+
+    <dimen name="toolbar_textsize">16sp</dimen>
+    <dimen name="ctrl_textsize">16sp</dimen>
+    <dimen name="super_textsize">18sp</dimen>
+    <dimen name="large_textsize">16sp</dimen>
+    <dimen name="default_textsize">14sp</dimen>
+    <dimen name="small_textsize">12sp</dimen>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="nav_header_vertical_spacing">8dp</dimen>
+    <dimen name="nav_header_height">176dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+
+    <dimen name="default_padding">4dp</dimen>
+    <dimen name="default_margin">10dp</dimen>
+    <dimen name="default_toobar_icon_padding">4dp</dimen>
+
+    <dimen name="large_padding">20dp</dimen>
+    <dimen name="large_margin">20dp</dimen>
+
+    <!-- Matisse -->
+    <dimen name="grid_expected_size">120dp</dimen>
+    <dimen name="item_margin_horizontal">24dp</dimen>
+    <dimen name="item_margin_vertical">8dp</dimen>
+</resources>
